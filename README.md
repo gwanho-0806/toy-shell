@@ -28,3 +28,4 @@ I used pwd to keep the current directory visible next to the hostname looking li
   OS: Ubuntu 18.04
   
   # ㅁㄴㅇㄻㄴㄴ
+  * 123
