@@ -31,4 +31,4 @@ I used pwd to keep the current directory visible next to the hostname looking li
   * 123
   - 123
   + 123
-  * 123 *
+  *123*
